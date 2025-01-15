@@ -16,29 +16,26 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahya-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahya-in" height="30" width="40" /></a>
+<span align="left">
+<a href="mailto:nuryahyaimannuansa@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyanuansa&show_icons=true&locale=en&layout=compact" alt="yahyanuansa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyanuansa&show_icons=true&locale=en" alt="yahyanuansa" /></p>
+<h3 align="left">Financial Modelling and Intelligence:</h3>
+<p align="left"> <img src="https://github.com/YahyaNuansa/YahyaNuansa/blob/main/assets/PngItem_1756245.png" alt="model" width="350" height="120"/> </a> 
 
 ---
 
 ## 🛠️ Skills & Certifications
 - **Accounting and Finance**: Cost Accounting, Financial Planning, Budgeting, Financial Analysis
-- **Tools**: Microsoft Excel (Advanced), Power BI, Power Query, Notion, VBA Macro, Python
-- **Languages**: English (C2 Proficient)
+- **Languages**: Indonesia & English (C2 Proficient in listening and reading)
 - **Certifications**:
-  - Financial Modeling and Valuation Analyst® (Corporate Finance Institute)
-  - Power BI & Power Query Fundamentals (Corporate Finance Institute)
-  - EF SET English Skills Level C2
+  - [Financial Modeling and Valuation Analyst®](https://credentials.corporatefinanceinstitute.com/adba9118-0c2e-4178-9007-14bbc320f181#acc.frjXo3vy)
+  - [Power BI](https://credentials.corporatefinanceinstitute.com/a225f1aa-b819-460f-b5af-d89364634c04)& [Power Query Fundamentals](https://credentials.corporatefinanceinstitute.com/b1b9d588-053d-417f-ae63-82a498f32bb1#acc.JuM0Zcig)
+  - [EF SET English Skills Level C2](https://cert.efset.org/6yKCjK)
 
 ---
 
@@ -77,11 +74,22 @@
 ## 📚 Education
 - **Bachelor's Degree in Accounting** (Binus University, GPA: 3.97, Expected: Feb 2025)
 - **Associate Degree in Accounting** (Diponegoro University, GPA: 3.84)
+### 🫰Volunteering
+**Financial Modeling Workshop**
+<a href="https://youtu.be/ZLg2dXohv38?si=jIRtwwnpPYMgR58e">
+</p>
+  <img src="https://github.com/YahyaNuansa/YahyaNuansa/blob/main/assets/Snapinsta.app_465798803_535370586044631_8350091507939301590_n_1080.jpg" alt="Financial Modeling Workshop" width="200">
+</a>
 
 ---
 
 ## 🌱 What’s Next?
-I am continuously learning and experimenting with emerging technologies to further my expertise. Let’s collaborate and build something amazing together!
+<p align="center">
+  <img src="https://github.com/YahyaNuansa/YahyaNuansa/blob/main/assets/pake%20ini.png" alt="Description" width="200">
+</p>
+<p align="center">I am continuously learning and experimenting with emerging technologies to further my expertise. Let’s collaborate and build something amazing together!
+</p>
 
 ---
-**“Empowering smarter workflows and transformative solutions.”**
+
+<p align="center">“Empowering smarter workflows and transformative solutions.”</p>
