@@ -1,10 +1,26 @@
-# 👋 Hello, I'm Yahya
-Welcome to my GitHub profile! I am passionate about empowering businesses through innovative solutions and emerging technologies. With expertise in accounting, financial modeling, and workflow automation, I strive to create smarter, more efficient systems that drive success.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/YahyaNuansa/YahyaNuansa/blob/main/assets/a-cartoon-style-image-of-a-smiling-indiv_QDbqXk73TiWN2YRwtaRldQ_Mt2xqoanTnSybbpdLf0oig-removebg-preview.png" alt="Your Image" width="400" />
+    </td>
+    <td>
+      <p>
+        <h1>I'm Yahya👋</h1>
+      <p>
+        Welcome to my GitHub profile! I am passionate about empowering businesses through innovative solutions and emerging technologies. With expertise in accounting, financial modeling, and workflow automation, I strive to create smarter, more efficient systems that drive success.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahya-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahya-in" height="30" width="40" /></a>
 </p>
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
